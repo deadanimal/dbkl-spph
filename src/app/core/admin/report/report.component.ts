@@ -113,7 +113,7 @@ export class ReportComponent implements OnInit, OnDestroy {
   }
 
   getChart() {
-    let chart = am4core.create("chartdiv", am4charts.XYChart);
+    let chart = am4core.create("reportchartdiv", am4charts.XYChart);
     chart.paddingRight = 20;
 
     let data = this.dataChart
@@ -147,7 +147,7 @@ export class ReportComponent implements OnInit, OnDestroy {
   }
 
   getChart1() {
-    let chart = am4core.create("chartdiv1", am4charts.XYChart);
+    let chart = am4core.create("reportchartdiv1", am4charts.XYChart);
     chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
 
     let data = [];
@@ -193,7 +193,7 @@ export class ReportComponent implements OnInit, OnDestroy {
   }
 
   getChart2() {
-    let chart = am4core.create("chartdiv2", am4charts.XYChart);
+    let chart = am4core.create("reportchartdiv2", am4charts.XYChart);
 
     // Add data
     chart.data = this.dataChart2
@@ -276,7 +276,7 @@ export class ReportComponent implements OnInit, OnDestroy {
   }
 
   getChart3() {
-    let chart = am4core.create("chartdiv3", am4charts.XYChart);
+    let chart = am4core.create("reportchartdiv3", am4charts.XYChart);
 
     // Add data
     chart.data = this.dataChart3
@@ -338,18 +338,18 @@ export class ReportComponent implements OnInit, OnDestroy {
   }
 
   getChart4() {
-    let chart = am4core.create("chartdiv4", am4charts.PieChart3D);
+    let chart = am4core.create("reportchartdiv4", am4charts.PieChart3D);
     chart.hiddenState.properties.opacity = 0; // this creates initial fade-in
 
     chart.legend = new am4charts.Legend();
 
     chart.data = [
       {
-        types: "Active",
+        types: "Aktif",
         amount: 501
       },
       {
-        types: "Inactive",
+        types: "Tidak Aktif",
         amount: 301
       }
     ];

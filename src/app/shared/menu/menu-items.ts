@@ -99,7 +99,7 @@ export const ROUTES: RouteInfo[] = [
   },
   {
     path: '/admin/psis',
-    title: 'PSIS',
+    title: 'Sistem Maklumat Ukur & Periksa',
     type: 'link',
     icontype: 'fas fa-newspaper text-purple'
   },
@@ -136,7 +136,7 @@ export const ROUTES: RouteInfo[] = [
     isCollapsed: true,
     children: [
       { path: 'audit-trails', title: 'Audit Trails', type: 'link' },
-      { path: 'Pengguna', title: 'User', type: 'link' }
+      { path: 'user', title: 'Pengguna', type: 'link' }
     ]
   },
   {

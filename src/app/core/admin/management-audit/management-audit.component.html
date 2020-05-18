@@ -13,7 +13,7 @@
                 </a>             
               </li>
               <li class="breadcrumb-item">
-                <a href="javascript:void(0)" class="text-dark"> Management </a>
+                <a href="javascript:void(0)" class="text-dark"> Pengurusan </a>
               </li>
               <li aria-current="page" class="breadcrumb-item active">
                 Audit Trails
@@ -31,7 +31,7 @@
         <div class="col">
             <div class="card">
                 <div class="card-header bg-secondary">
-                    <h3 class="m-0">Action Types</h3>
+                    <h3 class="m-0">Jenis aktiviti</h3>
                 </div>
                 <div class="card-body">
                     <div class="chart">
@@ -107,7 +107,7 @@
                         <ngx-datatable-column name="Email"></ngx-datatable-column>
                         <ngx-datatable-column>
                             <ng-template ngx-datatable-header-template>
-                              <span>Created At</span>
+                              <span>Pada</span>
                             </ng-template>
                             <ng-template let-row="row" ngx-datatable-cell-template>
                               {{row.created_at}}
@@ -115,7 +115,7 @@
                           </ngx-datatable-column>
                           <ngx-datatable-column>
                             <ng-template ngx-datatable-header-template>
-                              <span>Action</span>
+                              <span>Aktiviti</span>
                             </ng-template>
                             <ng-template let-row="row" ngx-datatable-cell-template>
                                 <span *ngIf="row.action == 'POST'" class="badge badge-pill badge-default">POST</span>
