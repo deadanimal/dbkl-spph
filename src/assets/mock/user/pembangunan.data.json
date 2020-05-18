@@ -1,0 +1,352 @@
+[
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN8793",
+        "kadar_caj": "71 per unit",
+        "kadar_bayaran": "4458",
+        "harga": "18842"
+    },
+    {
+        "kategori": "Tapak Jualan",
+        "id_bangunan": "BGN4945",
+        "kadar_caj": "78 per unit",
+        "kadar_bayaran": "8218",
+        "harga": "67576"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN0178",
+        "kadar_caj": "82 per unit",
+        "kadar_bayaran": "3405",
+        "harga": "01794"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN4556",
+        "kadar_caj": "84 per unit",
+        "kadar_bayaran": "8554",
+        "harga": "88474"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN9998",
+        "kadar_caj": "40 per unit",
+        "kadar_bayaran": "5271",
+        "harga": "85588"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN8575",
+        "kadar_caj": "75 per unit",
+        "kadar_bayaran": "9028",
+        "harga": "58670"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN1217",
+        "kadar_caj": "32 per unit",
+        "kadar_bayaran": "5750",
+        "harga": "71162"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN5131",
+        "kadar_caj": "37 per unit",
+        "kadar_bayaran": "9823",
+        "harga": "13533"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN3490",
+        "kadar_caj": "03 per unit",
+        "kadar_bayaran": "8914",
+        "harga": "54614"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN9963",
+        "kadar_caj": "93 per unit",
+        "kadar_bayaran": "2593",
+        "harga": "66698"
+    },
+    {
+        "kategori": "Dewan",
+        "id_bangunan": "BGN7293",
+        "kadar_caj": "18 per unit",
+        "kadar_bayaran": "6612",
+        "harga": "62260"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN4859",
+        "kadar_caj": "35 per unit",
+        "kadar_bayaran": "8896",
+        "harga": "89357"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN2891",
+        "kadar_caj": "62 per unit",
+        "kadar_bayaran": "3976",
+        "harga": "07894"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN4806",
+        "kadar_caj": "62 per unit",
+        "kadar_bayaran": "1761",
+        "harga": "32179"
+    },
+    {
+        "kategori": "Dewan",
+        "id_bangunan": "BGN5140",
+        "kadar_caj": "10 per unit",
+        "kadar_bayaran": "2587",
+        "harga": "96620"
+    },
+    {
+        "kategori": "Dewan",
+        "id_bangunan": "BGN0876",
+        "kadar_caj": "36 per unit",
+        "kadar_bayaran": "7961",
+        "harga": "85704"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN1255",
+        "kadar_caj": "91 per unit",
+        "kadar_bayaran": "7395",
+        "harga": "54726"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN1617",
+        "kadar_caj": "02 per unit",
+        "kadar_bayaran": "9237",
+        "harga": "01599"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN2782",
+        "kadar_caj": "69 per unit",
+        "kadar_bayaran": "0959",
+        "harga": "87239"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN3349",
+        "kadar_caj": "58 per unit",
+        "kadar_bayaran": "2652",
+        "harga": "81359"
+    },
+    {
+        "kategori": "Tapak Jualan",
+        "id_bangunan": "BGN8427",
+        "kadar_caj": "21 per unit",
+        "kadar_bayaran": "6143",
+        "harga": "26531"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN5733",
+        "kadar_caj": "61 per unit",
+        "kadar_bayaran": "9476",
+        "harga": "31885"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN4045",
+        "kadar_caj": "36 per unit",
+        "kadar_bayaran": "9386",
+        "harga": "33189"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN2349",
+        "kadar_caj": "82 per unit",
+        "kadar_bayaran": "6466",
+        "harga": "85553"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN3914",
+        "kadar_caj": "90 per unit",
+        "kadar_bayaran": "1122",
+        "harga": "99018"
+    },
+    {
+        "kategori": "Tapak Jualan",
+        "id_bangunan": "BGN5379",
+        "kadar_caj": "15 per unit",
+        "kadar_bayaran": "7721",
+        "harga": "71097"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN4223",
+        "kadar_caj": "01 per unit",
+        "kadar_bayaran": "8770",
+        "harga": "04016"
+    },
+    {
+        "kategori": "Dewan",
+        "id_bangunan": "BGN0304",
+        "kadar_caj": "40 per unit",
+        "kadar_bayaran": "7622",
+        "harga": "92508"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN8992",
+        "kadar_caj": "35 per unit",
+        "kadar_bayaran": "0893",
+        "harga": "39863"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN2392",
+        "kadar_caj": "10 per unit",
+        "kadar_bayaran": "9458",
+        "harga": "45587"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN5265",
+        "kadar_caj": "00 per unit",
+        "kadar_bayaran": "8378",
+        "harga": "14624"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN6354",
+        "kadar_caj": "20 per unit",
+        "kadar_bayaran": "1417",
+        "harga": "20142"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN7079",
+        "kadar_caj": "72 per unit",
+        "kadar_bayaran": "7986",
+        "harga": "14380"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN9906",
+        "kadar_caj": "74 per unit",
+        "kadar_bayaran": "4719",
+        "harga": "79690"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN6956",
+        "kadar_caj": "78 per unit",
+        "kadar_bayaran": "5568",
+        "harga": "66614"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN7840",
+        "kadar_caj": "62 per unit",
+        "kadar_bayaran": "8638",
+        "harga": "24849"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN9782",
+        "kadar_caj": "79 per unit",
+        "kadar_bayaran": "5566",
+        "harga": "18846"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN2266",
+        "kadar_caj": "60 per unit",
+        "kadar_bayaran": "3831",
+        "harga": "46619"
+    },
+    {
+        "kategori": "Dewan",
+        "id_bangunan": "BGN5427",
+        "kadar_caj": "78 per unit",
+        "kadar_bayaran": "7391",
+        "harga": "81854"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN2810",
+        "kadar_caj": "01 per unit",
+        "kadar_bayaran": "8772",
+        "harga": "37129"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN5189",
+        "kadar_caj": "56 per unit",
+        "kadar_bayaran": "8900",
+        "harga": "68697"
+    },
+    {
+        "kategori": "Tapak Jualan",
+        "id_bangunan": "BGN2427",
+        "kadar_caj": "07 per unit",
+        "kadar_bayaran": "5702",
+        "harga": "47145"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN0164",
+        "kadar_caj": "15 per unit",
+        "kadar_bayaran": "9384",
+        "harga": "38556"
+    },
+    {
+        "kategori": "Tapak Jualan",
+        "id_bangunan": "BGN9733",
+        "kadar_caj": "76 per unit",
+        "kadar_bayaran": "8777",
+        "harga": "32518"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN2864",
+        "kadar_caj": "88 per unit",
+        "kadar_bayaran": "3279",
+        "harga": "87667"
+    },
+    {
+        "kategori": "Tapak Jualan",
+        "id_bangunan": "BGN3510",
+        "kadar_caj": "19 per unit",
+        "kadar_bayaran": "5014",
+        "harga": "15943"
+    },
+    {
+        "kategori": "Kawasan Terbuka",
+        "id_bangunan": "BGN9117",
+        "kadar_caj": "47 per unit",
+        "kadar_bayaran": "9333",
+        "harga": "15638"
+    },
+    {
+        "kategori": "Perumahan",
+        "id_bangunan": "BGN0762",
+        "kadar_caj": "64 per unit",
+        "kadar_bayaran": "0320",
+        "harga": "95810"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN1525",
+        "kadar_caj": "24 per unit",
+        "kadar_bayaran": "5389",
+        "harga": "23688"
+    },
+    {
+        "kategori": "Lot Kedai",
+        "id_bangunan": "BGN2847",
+        "kadar_caj": "06 per unit",
+        "kadar_bayaran": "9620",
+        "harga": "77333"
+    }
+]

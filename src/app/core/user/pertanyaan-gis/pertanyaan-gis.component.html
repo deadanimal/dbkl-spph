@@ -1,0 +1,104 @@
+<div class="header pb-6">
+    <div class="container-fluid">
+        <div class="header-body">
+            <div class="row align-items-center py-4">
+                <div class="col-lg-6 col-7">
+                    <h6 class="h2 text-dark d-inline-block mb-0">Pertanyaan GIS</h6>
+
+                    <nav aria-label="breadcrumb" class=" d-none d-md-inline-block ml-md-4">
+                        <ol class="breadcrumb breadcrumb-links breadcrumb-dark">
+                            <li class=" breadcrumb-item">
+                                <a href="javascript:void(0)"> <i class="fas fa-map-marked-alt text-dark"> </i> </a>
+                            </li>
+                            <li aria-current="page" class="breadcrumb-item active">
+                               Pertanyaan GIS
+                            </li>
+                        </ol>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="container-fluid mt--6">
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div class="card-header bg-secondary">
+                    <div class="row align-items-center">
+						<div class="col">
+							<h5 class="h3 mb-0">Kedudukan GIS</h5>
+						</div>
+					</div>
+                </div>
+
+                <div class="card-body">
+                    <h6 class="heading-small text-muted mb-4">Maklumat Lokasi</h6>
+                    <div class="form-group">
+                        <label class="form-control-label">Alamat Penuh</label>
+                        <input
+                            class="form-control"
+                            name="Alamat"
+                            placeholder="Masukkan alamat penuh"
+                            type="text"
+                        >
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-control-label">Poskod</label>
+                                <input
+                                    class="form-control"
+                                    name="Poskod"
+                                    placeholder="Masukkan poskod"
+                                    type="text"
+                                >
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-control-label">Bandar</label>
+                                <input
+                                    class="form-control"
+                                    name="Bandar"
+                                    placeholder="Masukkan bandar"
+                                    type="text"
+                                >
+                            </div>
+                        </div>
+
+                        <div class="col">
+                            <div class="form-group">
+                                <label class="form-control-label">Negeri</label>
+                                <input
+                                    class="form-control"
+                                    name="Negeri"
+                                    placeholder="Masukkan negeri"
+                                    type="text"
+                                >
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="text-right">
+                        <button class="btn btn-default">Carian</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col">
+            <div class="card">
+                <div 
+                    style="height: 500px;"
+                    leaflet 
+                    [leafletOptions]="options">
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
